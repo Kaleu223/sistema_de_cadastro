@@ -1,0 +1,53 @@
+	#container{
+		border: solid 1px black;
+		height: 100vh;
+		display: flex;
+		/* alinhamento vertical */
+		align-items: center;
+		/* alinhamento horizontal */
+		justify-content: center;
+		background-color: lightpink;
+		background-image: url(img/coquette.WEPB);
+	}
+	body{
+		margin: 0;
+	}
+	#login{
+		border: solid 2px gray;
+		width: 40%;
+		height: 70vh;
+		text-align: center;
+		padding-top: 90px;
+		box-shadow:20px 30px 20px lavenderblush;
+		background-color: pink;
+		;]
+	}
+	h3{
+		font-size: 26px;
+		font-family: segeo UI;
+		color: ghostwhite;
+	}
+
+	label{
+		font-size: 22px;
+		font-family: segeo UI;
+	}
+	.campos{
+		width:90%;
+		height:45px;
+		border:solid 1px gray;
+		border-radius:4px;
+		font-size:22px;
+		font-family:segoe UI;
+		text-align:center;
+	}
+	#btn_entrar{
+	width:90%;
+	height:45px;
+	border:double 1px gray;
+	border-radius:4px;
+	font-size:22px;
+	font-family:segoe UI;
+	background-color:g;
+    
+    }
